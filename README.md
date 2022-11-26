@@ -8,7 +8,7 @@ I have been working on front-end projects using React.js and Next.js, and my pas
 
 I also work closely with designers and backend developers to create the frontend for the community-based product. I redesigned the frontend architecture and collaborated on the node.js backend for new features so that more people could use this product without any hassle.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / ETHER JS / SOLIDITY / HARDHAT
+Skills: NEXT JS / REACT / JS / HTML / CSS / ETHER JS / SOLIDITY / HARDHAT
 
 - 🔭 I’m currently working on Community product with token-based reward system focusing on helping web3 developer and enthusiasts 
 - 🌱 I’m currently learning Solidity and defi Dev 
@@ -20,4 +20,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / ETHER JS / SOLIDITY / HARDHAT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codantes)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codantes)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=codantes)  
 
