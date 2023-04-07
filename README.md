@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pranav Kumar
 #### Fullstack Developer building for future
-![Frontend Developer building for web3](https://ibb.co/Wy0W1pK)
+![Frontend Developer building for web3](https://i.ibb.co/C765Fs0/Pranav-Kumar.png)
 
 I am a Frontend developer, Ethereum smart contract developer, and Web3 integration specialist. I love building and designing products, and I am really hoping to work closely with UI development.
 
