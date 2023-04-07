@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pranav
 #### Fullstack developer building for the future
-![](https://i.ibb.co/C765Fs0/Pranav-Kumar.png)
+![](https://i.imgur.com/YLkWnCk.png)
 
 I'm a full stack web developer and native app developer with a passion for designing and building great user experiences. I have experience working with React, Next.js, Node.js, and various other web development technologies.
 
