@@ -1,18 +1,17 @@
-### Hi there 👋, my name is Pranav Kumar
-#### Fullstack Developer building for future
-![Frontend Developer building for web3](https://i.ibb.co/C765Fs0/Pranav-Kumar.png)
+### Hi there 👋, my name is Pranav
+#### Fullstack developer building for the future
+![](https://i.ibb.co/C765Fs0/Pranav-Kumar.png)
 
-I am a Frontend developer, Ethereum smart contract developer, and Web3 integration specialist. I love building and designing products, and I am really hoping to work closely with UI development.
+I'm a full stack web developer and native app developer with a passion for designing and building great user experiences. I have experience working with React, Next.js, Node.js, and various other web development technologies.
 
-I have been working on front-end projects using React.js and Next.js, and my passion for UI design is what drives me every day. I have worked on React-based web applications, mobile websites, and web apps with amazing user experience.
+Recently, I've been focusing on expanding my skills to include native app development using technologies like React Native and Flutter. I believe that mobile apps are a powerful tool for engaging with users and building communities, and I'm excited to explore this area further.
 
-I also work closely with designers and backend developers to create the frontend for the community-based product. I redesigned the frontend architecture and collaborated on the node.js backend for new features so that more people could use this product without any hassle.
+In addition to my technical skills, I'm also experienced in collaborating with designers and other developers to bring projects to life. I'm always eager to learn and try new things, and I'm constantly looking for opportunities to work on interesting projects and collaborate with others in the tech community
 
-Skills: NEXT JS / REACT / JS / HTML / CSS / ETHER JS / SOLIDITY / HARDHAT
+Skills: NEXT JS | REACT JS | REACT NATIVE | MERN | TAILWIND | PYTHON | TENSORFLOW | FASTAPI | SOLIDITY | EVM
 
-- 🔭 I’m currently working on Community product with token-based reward system focusing on helping web3 developer and enthusiasts 
-- 🌱 I’m currently learning Solidity and defi Dev 
-- 👯 I’m looking to collaborate on Ethereum protocols, fintech, and interesting saas products  
+- 🔭 I’m currently working on multiple native applications and edtech platforms
+- 👯 I’m looking to collaborate on fintech, and interesting saas products  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codantes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devpranavk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MildlyCoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](devpranavkumar.netlify.app)  
