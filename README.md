@@ -1,16 +1,17 @@
 ### Hi there 👋, my name is Pranav
-#### Fullstack developer building for the future
-![](https://i.imgur.com/YLkWnCk.png)
+#### Exploring Tech
 
-I'm a full stack web developer and native app developer with a passion for designing and building great user experiences. I have experience working with React, Next.js, Node.js, and various other web development technologies.
+I am a Linux nerd, I love neovim, terminal multiplexers, window managers etc. 
 
-Recently, I've been focusing on expanding my skills to include native app development using technologies like React Native and Flutter. I believe that mobile apps are a powerful tool for engaging with users and building communities, and I'm excited to explore this area further.
+Someday I might say "I use arch, btw" but till then I am a debian user.
 
-In addition to my technical skills, I'm also experienced in collaborating with designers and other developers to bring projects to life. I'm always eager to learn and try new things, and I'm constantly looking for opportunities to work on interesting projects and collaborate with others in the tech community
+I build stuff for web and blockchain, trying to learn cloud and MLops (seems fun)
 
-Skills: NEXT JS | REACT JS | REACT NATIVE | MERN | TAILWIND | PYTHON | TENSORFLOW | FASTAPI | SOLIDITY | EVM
 
-- 🔭 I’m currently working on multiple native applications and edtech platforms
+
+Skills: NEXT JS | REACT JS | REACT NATIVE | MERN | TAILWIND | PYTHON | TENSORFLOW | Go | SOLIDITY | EVM
+
+- 🔭 I’m currently working on blockchain integrated design platform for tamperproof documentation
 - 👯 I’m looking to collaborate on fintech, and interesting saas products  
 
 
