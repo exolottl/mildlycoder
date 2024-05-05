@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Pranav
 #### Exploring Tech
 
-I am a Linux nerd, I love neovim, terminal multiplexers, window managers etc. 
+I am a Linux nerd, I love ricing my system to death. 
 
-Someday I might say "I use arch, btw" but till then I am a debian user.
+Someday I might say "I use arch, btw".
 
 I build stuff for web and blockchain, trying to learn cloud and MLops (seems fun)
 
