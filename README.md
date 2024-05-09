@@ -3,7 +3,7 @@
 
 I am a Linux nerd, I love ricing my system to death. 
 
-Someday I might say "I use arch, btw".
+"I use arch, btw".
 
 I build stuff for web and blockchain, trying to learn cloud and MLops (seems fun)
 
