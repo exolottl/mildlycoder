@@ -5,7 +5,7 @@ I am a Linux nerd, I love ricing my system to death.
 
 Skills: NEXT JS | REACT JS | REACT NATIVE | Flutter | PYTHON | TENSORFLOW | Go | Lua 
 
-- 🔭 I’m currently working on building my own game
+- 🔭 I’m currently working on building my own game and [https://bonjourlifestyle.com]
 - 👯 I’m looking to collaborate on fintech, and interesting saas products  
 
 
